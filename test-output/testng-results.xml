@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-12-31T15:51:04Z" name="Suite" finished-at="2019-12-31T15:51:11Z" duration-ms="6864">
+    <groups>
+    </groups>
+    <test started-at="2019-12-31T15:51:04Z" name="Test" finished-at="2019-12-31T15:51:11Z" duration-ms="6864">
+      <class name="PostTestCases.CreateNewEmployee">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:PostTestCases.CreateNewEmployee@50313382]" started-at="2019-12-31T10:51:07Z" name="Setup" finished-at="2019-12-31T10:51:07Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method is-config="true" signature="createemployee()[pri:0, instance:PostTestCases.CreateNewEmployee@50313382]" started-at="2019-12-31T10:51:07Z" name="createemployee" finished-at="2019-12-31T10:51:11Z" duration-ms="4570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createemployee -->
+        <test-method signature="Responsebody()[pri:0, instance:PostTestCases.CreateNewEmployee@50313382]" started-at="2019-12-31T10:51:11Z" name="Responsebody" finished-at="2019-12-31T10:51:11Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Responsebody -->
+        <test-method signature="StatusCode()[pri:0, instance:PostTestCases.CreateNewEmployee@50313382]" started-at="2019-12-31T10:51:11Z" name="StatusCode" finished-at="2019-12-31T10:51:11Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StatusCode -->
+      </class> <!-- PostTestCases.CreateNewEmployee -->
+      <class name="GetTestCases.AllEmployeesInfo">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:GetTestCases.AllEmployeesInfo@52815fa3]" started-at="2019-12-31T10:51:05Z" name="Setup" finished-at="2019-12-31T10:51:05Z" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method is-config="true" signature="Allemployeesinfo()[pri:0, instance:GetTestCases.AllEmployeesInfo@52815fa3]" started-at="2019-12-31T10:51:05Z" name="Allemployeesinfo" finished-at="2019-12-31T10:51:07Z" duration-ms="1987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Allemployeesinfo -->
+        <test-method signature="ResponseBody()[pri:0, instance:GetTestCases.AllEmployeesInfo@52815fa3]" started-at="2019-12-31T10:51:07Z" name="ResponseBody" finished-at="2019-12-31T10:51:07Z" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ResponseBody -->
+        <test-method signature="ResponseTime()[pri:0, instance:GetTestCases.AllEmployeesInfo@52815fa3]" started-at="2019-12-31T10:51:07Z" name="ResponseTime" finished-at="2019-12-31T10:51:07Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ResponseTime -->
+        <test-method signature="StatusCode()[pri:0, instance:GetTestCases.AllEmployeesInfo@52815fa3]" started-at="2019-12-31T10:51:07Z" name="StatusCode" finished-at="2019-12-31T10:51:07Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StatusCode -->
+      </class> <!-- GetTestCases.AllEmployeesInfo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
