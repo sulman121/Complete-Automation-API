@@ -87,3 +87,67 @@
 2019-12-31 10:51:07 INFO  Complete_Api_Automation_FrameWork:48 - ******Test Response time  =====>>>>   
 2019-12-31 10:51:07 INFO  Complete_Api_Automation_FrameWork:51 - Response Time is 1260
 2019-12-31 10:51:07 INFO  Complete_Api_Automation_FrameWork:60 - Status code ====>>> 200
+2019-12-31 12:27:16 INFO  Complete_Api_Automation_FrameWork:29 - *****   Create an Employee Api Start Testing   *****
+2019-12-31 12:27:23 INFO  Complete_Api_Automation_FrameWork:69 - *****   TestFinish   *****
+2019-12-31 12:29:07 INFO  Complete_Api_Automation_FrameWork:27 - *****   Create an Employee Api Start Testing   *****
+2019-12-31 12:29:12 INFO  Complete_Api_Automation_FrameWork:50 - This is the Status Code ===>> 200
+2019-12-31 12:29:12 INFO  Complete_Api_Automation_FrameWork:69 - *****   TestFinish   *****
+2019-12-31 12:30:56 INFO  Complete_Api_Automation_FrameWork:27 - *****   Create an Employee Api Start Testing   *****
+2019-12-31 12:31:01 INFO  Complete_Api_Automation_FrameWork:58 - This is the Response Body ====>>>  {"name":"Sulmanwh","salary":"81233","age":"70","id":"270549"}
+2019-12-31 12:31:02 INFO  Complete_Api_Automation_FrameWork:50 - This is the Status Code ===>> 200
+2019-12-31 12:31:02 INFO  Complete_Api_Automation_FrameWork:70 - *****   TestFinish   *****
+2019-12-31 12:33:11 INFO  Complete_Api_Automation_FrameWork:27 - *****   Create an Employee Api Start Testing   *****
+2019-12-31 12:33:17 INFO  Complete_Api_Automation_FrameWork:58 - This is the Response Body ====>>>  {"name":"SulmanZw","salary":"47449","age":"37","id":"270552"}
+2019-12-31 12:33:17 INFO  Complete_Api_Automation_FrameWork:50 - This is the Status Code ===>> 200
+2019-12-31 12:33:17 INFO  Complete_Api_Automation_FrameWork:71 - *****   TestFinish   *****
+2019-12-31 12:34:19 INFO  Complete_Api_Automation_FrameWork:27 - *****   Create an Employee Api Start Testing   *****
+2019-12-31 12:34:25 INFO  Complete_Api_Automation_FrameWork:65 - This is the Status Line===>>  HTTP/1.1 200 OK
+2019-12-31 12:34:25 INFO  Complete_Api_Automation_FrameWork:58 - This is the Response Body ====>>>  {"name":"SulmanoT","salary":"44721","age":"52","id":"270554"}
+2019-12-31 12:34:25 INFO  Complete_Api_Automation_FrameWork:50 - This is the Status Code ===>> 200
+2019-12-31 12:34:25 INFO  Complete_Api_Automation_FrameWork:72 - *****   TestFinish   *****
+2019-12-31 12:36:03 INFO  Complete_Api_Automation_FrameWork:27 - *****   Create an Employee Api Start Testing   *****
+2019-12-31 12:36:09 INFO  Complete_Api_Automation_FrameWork:50 - This is the Status Code ===>> 200
+2019-12-31 12:36:09 INFO  Complete_Api_Automation_FrameWork:58 - This is the Response Body ====>>>  {"name":"SulmanRu","salary":"46210","age":"79","id":"270557"}
+2019-12-31 12:36:09 INFO  Complete_Api_Automation_FrameWork:65 - This is the Status Line===>>  HTTP/1.1 200 OK
+2019-12-31 12:36:09 INFO  Complete_Api_Automation_FrameWork:72 - *****   TestFinish   *****
+2019-12-31 12:39:41 INFO  Complete_Api_Automation_FrameWork:27 - *****   Create an Employee Api Start Testing   *****
+2019-12-31 12:39:47 INFO  Complete_Api_Automation_FrameWork:50 - This is the Status Code ===>> 200
+2019-12-31 12:39:47 INFO  Complete_Api_Automation_FrameWork:58 - This is the Response Body ====>>>  {"name":"SulmanrC","salary":"51518","age":"48","id":"270562"}
+2019-12-31 12:39:47 INFO  Complete_Api_Automation_FrameWork:65 - This is the Status Line===>>  HTTP/1.1 200 OK
+2019-12-31 12:39:47 INFO  Complete_Api_Automation_FrameWork:72 - *****   TestFinish   *****
+2019-12-31 12:39:56 INFO  Complete_Api_Automation_FrameWork:26 - ******Test Started=====>>>>   
+2019-12-31 12:39:58 INFO  Complete_Api_Automation_FrameWork:48 - ******Test Response time  =====>>>>   
+2019-12-31 12:39:58 INFO  Complete_Api_Automation_FrameWork:51 - Response Time is 858
+2019-12-31 12:39:58 INFO  Complete_Api_Automation_FrameWork:60 - Status code ====>>> 200
+2019-12-31 12:39:58 INFO  Complete_Api_Automation_FrameWork:27 - *****   Create an Employee Api Start Testing   *****
+2019-12-31 12:40:03 INFO  Complete_Api_Automation_FrameWork:50 - This is the Status Code ===>> 200
+2019-12-31 12:40:03 INFO  Complete_Api_Automation_FrameWork:58 - This is the Response Body ====>>>  {"name":"SulmanaW","salary":"34107","age":"30","id":"270563"}
+2019-12-31 12:40:03 INFO  Complete_Api_Automation_FrameWork:65 - This is the Status Line===>>  HTTP/1.1 200 OK
+2019-12-31 12:40:03 INFO  Complete_Api_Automation_FrameWork:72 - *****   TestFinish   *****
+2019-12-31 13:26:09 INFO  Complete_Api_Automation_FrameWork:26 - ******Test Started=====>>>>   
+2019-12-31 13:26:11 INFO  Complete_Api_Automation_FrameWork:48 - ******Test Response time  =====>>>>   
+2019-12-31 13:26:11 INFO  Complete_Api_Automation_FrameWork:51 - Response Time is 1017
+2019-12-31 13:26:11 INFO  Complete_Api_Automation_FrameWork:60 - Status code ====>>> 200
+2019-12-31 13:26:11 INFO  Complete_Api_Automation_FrameWork:27 - *****   Create an Employee Api Start Testing   *****
+2019-12-31 13:26:15 INFO  Complete_Api_Automation_FrameWork:50 - This is the Status Code ===>> 200
+2019-12-31 13:26:15 INFO  Complete_Api_Automation_FrameWork:58 - This is the Response Body ====>>>  {"name":"SulmanPs","salary":"86715","age":"16","id":"270625"}
+2019-12-31 13:26:15 INFO  Complete_Api_Automation_FrameWork:65 - This is the Status Line===>>  HTTP/1.1 200 OK
+2019-12-31 13:26:15 INFO  Complete_Api_Automation_FrameWork:72 - *****   TestFinish   *****
+2019-12-31 13:28:08 INFO  Complete_Api_Automation_FrameWork:26 - ******Test Started=====>>>>   
+2019-12-31 13:28:10 INFO  Complete_Api_Automation_FrameWork:48 - ******Test Response time  =====>>>>   
+2019-12-31 13:28:10 INFO  Complete_Api_Automation_FrameWork:51 - Response Time is 1176
+2019-12-31 13:28:10 INFO  Complete_Api_Automation_FrameWork:60 - Status code ====>>> 200
+2019-12-31 13:28:10 INFO  Complete_Api_Automation_FrameWork:27 - *****   Create an Employee Api Start Testing   *****
+2019-12-31 13:28:14 INFO  Complete_Api_Automation_FrameWork:50 - This is the Status Code ===>> 200
+2019-12-31 13:28:14 INFO  Complete_Api_Automation_FrameWork:58 - This is the Response Body ====>>>  {"name":"SulmanjP","salary":"70384","age":"56","id":"270628"}
+2019-12-31 13:28:14 INFO  Complete_Api_Automation_FrameWork:65 - This is the Status Line===>>  HTTP/1.1 200 OK
+2019-12-31 13:28:14 INFO  Complete_Api_Automation_FrameWork:72 - *****   TestFinish   *****
+2020-01-01 10:44:25 INFO  Complete_Api_Automation_FrameWork:26 - ******Test Started=====>>>>   
+2020-01-01 10:44:29 INFO  Complete_Api_Automation_FrameWork:48 - ******Test Response time  =====>>>>   
+2020-01-01 10:44:29 INFO  Complete_Api_Automation_FrameWork:51 - Response Time is 2772
+2020-01-01 10:44:29 INFO  Complete_Api_Automation_FrameWork:60 - Status code ====>>> 200
+2020-01-01 10:44:29 INFO  Complete_Api_Automation_FrameWork:27 - *****   Create an Employee Api Start Testing   *****
+2020-01-01 10:44:35 INFO  Complete_Api_Automation_FrameWork:50 - This is the Status Code ===>> 200
+2020-01-01 10:44:35 INFO  Complete_Api_Automation_FrameWork:58 - This is the Response Body ====>>>  {"name":"SulmanuN","salary":"02298","age":"10","id":"129"}
+2020-01-01 10:44:35 INFO  Complete_Api_Automation_FrameWork:65 - This is the Status Line===>>  HTTP/1.1 200 OK
+2020-01-01 10:44:35 INFO  Complete_Api_Automation_FrameWork:72 - *****   TestFinish   *****
